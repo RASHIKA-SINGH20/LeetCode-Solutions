@@ -17,7 +17,7 @@ class Solution {
                     right = mid -1;
                 }
                 else{
-                left = left +1;
+                left = mid + 1;
                 }
             }
             else
